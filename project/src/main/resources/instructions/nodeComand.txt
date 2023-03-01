@@ -1,0 +1,22 @@
+-ПРОВЕРКА ВЕРСИЙ
+node -v
+npm -v
+npx -v
+
+-установка npx
+npm -g i npx
+-
+
+
+-создание
+npx create-react-app@5.0.1frontend
+
+npm start
+
+https://github.com/developit/unfetch
+
+npm i --save unfetch
+You can also use axios which is a very popular HTTP client
+
+Cross-Origin Resource Sharing (CORS)
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
